@@ -5,7 +5,7 @@
         "name": "Python: Flask",
         "type": "debugpy",
         "request": "launch",
-        "program": "${workspaceFolder}/simflask.py",
+        "program": "/simflask.py",
         "args": ["run"],
         "jinja": true,
         "env": {
